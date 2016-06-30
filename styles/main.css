@@ -4,20 +4,38 @@
 
 .container {
   width: 15rem;
+  border: 1px solid black;
 }
 .tab {
   border: 1px solid black;
+  height: 2rem;
 }
 
 .counter {
   width: 2rem;
+  float: right;
 }
 i {
-  height: 5rem;
+  height: 10px;
   width: 5rem;
+  padding-left: 5px;
+  padding-top: 2px;
+}
+.fa-inverse {
+    color: #fff;
+    width: 25px;
 }
 
+
+
 li {
-  width: 100%;
-  border: 1px solid black;
+    width: 99.4%;
+    border: 1px solid black;
+    margin: 0;
+}
+
+ol {
+  height: auto;
+  margin: 0;
+  box-sizing: border-box;
 }
