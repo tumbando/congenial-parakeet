@@ -1,0 +1,23 @@
+*{
+  background-color: #64666b;
+}
+
+.container {
+  width: 15rem;
+}
+.tab {
+  border: 1px solid black;
+}
+
+.counter {
+  width: 2rem;
+}
+i {
+  height: 5rem;
+  width: 5rem;
+}
+
+li {
+  width: 100%;
+  border: 1px solid black;
+}
