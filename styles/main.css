@@ -74,9 +74,6 @@ ol {
 .hidden {
     height: 0;
     overflow: hidden;
-    color: transparent;
-    border: 0;
-    transition: .5s;
 }
 
 .content {
